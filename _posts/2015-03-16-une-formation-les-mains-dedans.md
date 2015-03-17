@@ -43,7 +43,7 @@ Pour que cela se passe au mieux, il faudra prévoir une journée préalable pour
 	* une équipe[^8], une machine, un vidéoprojecteur, une salle
 	* une vraie fonctionnalité à développer dans votre code à vous[^10]
 	* tous ensemble, avec des moments ''théorie'' quand c'est nécessaire
-	 langage : java[^9]
+	* langage : java[^9]
 * et comme c'est très expérimental, je ferai un prix pour les premières équipes à s'engager :)
 
 
