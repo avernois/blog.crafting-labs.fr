@@ -8,7 +8,7 @@ categories:
 - "mob"
 - "clean code"
 ---
-[!["while (!succeed=try())"](https://farm8.staticflickr.com/7619/16655328640_9eb1c06dac_m.jpg)](https://www.flickr.com/photos/antoinevernois/16655328640){: .left-image} 
+[!["while (!succeed=try())"](https://farm8.staticflickr.com/7619/16655328640_9eb1c06dac_n.jpg)](https://www.flickr.com/photos/antoinevernois/16655328640){: .left-image} 
 Depuis que je suis indépendant, la formation représente environ un tiers de mon activité[^1].
 Et j'en profite pour tester pas mal de chose sur le format, la durée, le contenu, l'échange...
 https://farm8.staticflickr.com/7619/16655328640_9eb1c06dac_m.jpg
