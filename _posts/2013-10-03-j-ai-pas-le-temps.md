@@ -35,7 +35,7 @@ Bref, ça me permet de (me) comprendre[^5] et de m'améliorer.
 Et vous, quand est-ce que vous arrêtez de ne plus avoir le temps ? et surtout, quand est-ce que vous commencer à prendre le temps ?
 
 
--- un grand merci à [Nicolas](https://twitter.com/duboisnicolas), [Antoine](https://twitter.com/antoinecezar), [Olivier](https://twitter.com/oaz) et [Nathalie](|https://twitter.com/nrosenberg) pour les lectures attentives.
+-- un grand merci à [Nicolas](https://twitter.com/duboisnicolas), [Antoine](https://twitter.com/antoinecezar), [Olivier](https://twitter.com/oaz) et [Nathalie](https://twitter.com/nrosenberg) pour les lectures attentives.
 
 
 [^1]: ou des non choix qu'on n'a pas fait
