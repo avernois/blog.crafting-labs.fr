@@ -11,7 +11,7 @@ categories:
 [!["while (!succeed=try())"](https://farm8.staticflickr.com/7619/16655328640_9eb1c06dac_n.jpg)](https://www.flickr.com/photos/antoinevernois/16655328640){: .left-image} 
 Depuis que je suis indépendant, la formation représente environ un tiers de mon activité[^1].
 Et j'en profite pour tester pas mal de chose sur le format, la durée, le contenu, l'échange...
-https://farm8.staticflickr.com/7619/16655328640_9eb1c06dac_m.jpg
+
 Pour l'agilité, les formations sont la plupart du temps un prélude à un processus d'accompagnement, donc fournir de la valeur en quelques jours qui sera réellement mis en œuvre sur le terrain, c'est assez facile. Puisque je serai là sur le terrain.
 
 Mais voilà, si quand il s'agit d'agilité, les propositions d'accompagnement / conseil sont facilement acceptées, quand il s'agit de pratiques de développement, ça devient tout de suite plus compliqué.
