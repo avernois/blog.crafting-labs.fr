@@ -3,7 +3,19 @@ layout: page
 title: Formations
 permalink: /formations/
 ---
-##Pratiques de développement
+## Pratiques de développement (mob programing style)
+
+* Objectif : partager les bonnes pratiques de développement et les techniques de survie dans du code legacy
+* durée : 5 jours + 1 jour de préparation préalable
+* format : 
+	* une équipe, une machine, un vidéoprojecteur, une salle
+	* une vraie fonctionnalité à développer dans votre code à vous
+	* tous ensemble, avec des moments ''théorie'' quand c'est nécessaire
+	* langage : java
+
+Tous les détails dans le billet dédié [Une formation les mains dedans](/2015/03/17/une-formation-les-mains-dedans).
+
+##Pratiques de développement (classique)
 
 * pitch :
 
