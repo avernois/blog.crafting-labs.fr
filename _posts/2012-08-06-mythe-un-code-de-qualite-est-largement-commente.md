@@ -12,13 +12,10 @@ categories:
 ![useless comment2.jpg](https://blog.crafting-labs.fr/images/illustration/useless_comment2.jpg){: .left-image}
 Quand j'aborde le sujet de la qualité du code avec un nouveau groupe, dans un coding dojo ou en établissant la signification de fini par exemple, il arrive toujours un moment comme ça :
 
-> dev : et il faut que tout soit largement commenté et que la javadoc soit à jour
-
-> le groupe : ah ouais ! c'est vrai, c'est important
-
-> moi : les commentaires, ça sert à rien
-
-> le groupe : huh !?
+> __dev__ : et il faut que tout soit largement commenté et que la javadoc soit à jour<br>
+> __le groupe__ : ah ouais ! c'est vrai, c'est important<br>
+> __moi__ : les commentaires, ça sert à rien<br>
+> __le groupe__ : huh !?
 
 
 
@@ -26,6 +23,7 @@ Ok, je reconnais, c'est une approche un peu brutale, mais c'est volontaire.
 Car c'est vrai : la plupart des commentaires sont au mieux un bruit inutile dans le code, au pire un symptôme d'un code trop complexe et mal maîtrisé.
 
 En fait, un commentaire peut servir à décrire trois types d'informations :
+
 * quoi : ce que fait le code
 * comment : comment il le réalise
 * pourquoi : pourquoi il le fait comme ça et pas d'une autre façon
@@ -99,7 +97,6 @@ Les commentaires sont utiles, mais ils ne doivent pas être redondants avec l'in
 Et donc : faites des tests unitaires ! :)
 
 #TL;DR
-
 
 > les tests me disent quoi, le code me dit comment, les commentaires me disent pourquoi.[^4]
 
