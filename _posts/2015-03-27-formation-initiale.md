@@ -5,7 +5,7 @@ categories:
 ---
 [![I am an Engineer by Orin Zebest, on Flickr](https://farm4.staticflickr.com/3053/2506156264_d1845f8539_n.jpg)](https://www.flickr.com/photos/orinrobertjohn/2506156264){: .left-image}
 
-La semaine dernière, je suis intervenu dans une école d'ingénieur en informatique. Au programme, 2 heures d'introduction aux tests unitaires[^1].
+La semaine dernière, je suis intervenu dans une école d'ingénieur en informatique. Au programme, 2&nbsp;heures d'introduction aux tests unitaires[^1].
 Comme à mon habitude, avant de commencer une session, je pose quelques questions pour avoir une idée de qui j'ai en face de moi dont l'évidente :
 
 > Qui veut être développeur ?
