@@ -3,35 +3,41 @@ layout: post
 title: "En finir avec les bugs"
 categories:
 ---
-> - il y a un bugs qui a apparu, on ne sait pas d'où il vient
-> - ça grouille de bugs
-> - haha, on l'a enfin eu, il était bien vicieux ce bug
+> -- il y a un bugs qui a apparu, on ne sait pas d'où il vient
+
+> -- ça grouille de bugs
+
+> -- haha, on l'a enfin eu, il était bien vicieux ce bug
 
 Ah, les bugs, ces petits êtres étranges qui se cachent au fond de nos applications et se montrent quand on ne les attend pas. 
 Ces créatures qui se reproduisent dans les zones obscures de notre code. On en tue un, et dix autres montrent leurs nez.
 
-On a tous entendu et prononcé, soyons honnêtes, des phrases dans ce genre sur les bugs.
+On a tous entendu et prononcé des phrases dans ce genre sur les bugs.
+
 
 Et je dois reconnaître que j'en ai marre. Vraiment. Je n'aime pas ce vocabulaire.
 
-Souvent je pose cette question aux équipes que je suis :
+Par ce que la réalité c'est que les bugs n'apparaissent pas par magie. 
+Ils ne font pas de nids.
+Ils ne se cachent pas, ils n'ont pas de volonté propre.
 
-> -- Qu'est-ce que vous avez fait au cours des deux dernières semaine pour améliorer la qualité de votre application ?
-> -- On a corrigé des bugs
-> -- C'est bien. Mais vous avez fait quoi pour faire en sorte de ne pas en introduire de nouveaux ?
-> -- Ben... euh...
+Parce que la réalité, c'est que c'est nous, développeurs, qui les introduisons dans le code de nos applications.
 
-Par ce que la réalité est là. 
-Les bugs n'apparaissent pas par magie. 
-Ils ne font pas des nids. 
-Ils ne se cachent pas, non pas de volonté propre. 
-C'est nous, développeurs, qui les introduisons dans le code de nos applications.
+Parce que c'est ce que sont réellement ces bugs mystérieux soit disant mystérieux : des défauts. Des fautes, des erreurs, des oublis, un peu tout ça à la fois.
 
-C'est nous qui laissons des défauts dans nos productions. Parce que c'est ce que sont réellement ces bugs mystérieux : des défauts. Des fautes, des erreurs que l'on n'a pas vu, des cas auxquels on n'a pas pensé[^1].
+Ça arrive, personne n'est parfait. On fait tous des erreurs, moi le premier. C'est pas grave.
 
-Ça arrive, personne n'est parfait. On fait tous des erreurs.
+C'est pas grave, mais il faut assumer.
+Il faut arrêter de se cacher derrière un vocabulaire qui nous déresponsabilise, qui crée une distance entre nous et ce qui ne sont que des défauts que __nous__ avons introduits.
+
+Vaincre un bug vicieux ne devrait pas être une source de fierté ni d'auto-satisfaction[^1]. 
+C'est bien, et il faut le faire. Mais on ne fait que corriger une défaillance dont __nous__ étions à l'origine. Et, ça, il ne faudrait pas l'oublier.
 
 
-[^1]: ou pire laissé en se disant que ça n'arrivera pas en prod. Voilà. Comme ça. Par magie.
-[^2]: mais je vous invite a lire [J'ai pas le temps](https://blog.crafting-labs.fr/2013/10/03/j-ai-pas-le-temps/) avant d'essayer d'utiliser cet argument avec moi :)
 
+On a déjà arrêter de ne [plus avoir le temps](https://blog.crafting-labs.fr/2013/10/03/j-ai-pas-le-temps), on pourrait bien arrêter d'avoir des bugs ?
+Peut être qu'ainsi, on pourrait commencer à prendre le temps[^2] de les prévenir et de corriger correctement les défauts et faiblesses existentes.
+
+
+[^1]: par contre la façon de corriger l'erreur peut l'être elle. Surtout si elle permet d'éviter qu'à l'avenir, ce type d'erreur arrive en prod.
+[^2]: et les compétence
