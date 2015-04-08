@@ -1,7 +1,14 @@
 ---
 layout: post
 title: "En finir avec les bugs"
+date: 2015-04-08 18:50:00 +0200
 categories:
+- "bug"
+- "défaut"
+- "vocabulaire"
+- "définition"
+- "langue"
+- "mot"
 ---
 [![2013.08 escala solidcrafters.0179 by Antoine Vernois](https://farm8.staticflickr.com/7652/16448025843_4627812e40_n.jpg)](https://www.flickr.com/photos/antoinevernois/16448025843){: .left-image}
 
