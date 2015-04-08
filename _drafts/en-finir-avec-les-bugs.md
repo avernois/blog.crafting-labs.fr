@@ -39,6 +39,11 @@ On a déjà arrêté de ne [plus avoir le temps](https://blog.crafting-labs.fr/2
 Peut être qu'ainsi, on pourrait commencer [à prendre le temps](https://blog.crafting-labs.fr/2014/12/16/une-histoire-du-temps/)[^2] de les prévenir et de corriger correctement les défauts et faiblesses existentes[^3].
 
 ------
+
+-- note : il y a d'autres mots que j'aimerais voir disparaître de mon contexte professionnel. Ressource, chiffrage ou passion par exemple.
+
+-- illustration : [2013.08 escala solidcrafters.0179 by Antoine Vernois](https://www.flickr.com/photos/antoinevernois/16448025843) en CC-BY-NC 2.0
+
 [^1]: par contre la façon de corriger l'erreur peut l'être elle. Surtout si elle permet d'éviter qu'à l'avenir, ce type d'erreur n'atteigne la prod.
 [^2]: et les compétences ?
 [^3]: je peux probablement vous aider pour ça.
