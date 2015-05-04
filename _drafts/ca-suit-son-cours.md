@@ -10,7 +10,7 @@ title: "Ça suit son cours"
 > -- et avec ton projet, on en est où ?<br>
 > -- ça suit son court.
 
-À chaque fois que j'entends cette phrase, je revois cette scène de [La Haine de Mathieu Kassovitz](http://www.imdb.com/title/tt0113247/) et Hubert qui raconte :
+À chaque fois que j'entends cette phrase, je revois Hubert, dans [La Haine de Mathieu Kassovitz](http://www.imdb.com/title/tt0113247/), qui raconte :
 
 
 > "C’est l’histoire d’un homme qui tombe d’un immeuble de cinquante étages. Le mec, au fur et à mesure de sa chute se répète sans cesse pour se rassurer : jusqu’ici tout va bien, jusqu’ici tout va bien, jusqu’ici tout va bien.<br>
