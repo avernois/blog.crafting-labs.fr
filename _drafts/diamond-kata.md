@@ -401,10 +401,23 @@ public static String create(Character c) {
     diamond += diamondTip(size);
     
     return diamond;
-}        
+}
 {% endhighlight %}
 
-## Next
+## thoughts
+
+My [first attempt on that kata](https://github.com/avernois/kata-diamond_java/tree/2015.05.23-first_attempt) took me around 2hours in a train[^6].
+
+As I usually do I've made things with very small steps in order to keep my test green all the time.
+I tried to let the algorithm emerge from the refactoring, and not the opposite.
+
+Of course, it did not emerge by itself. With that kind of problem, I had in mind that there will be some kind of loop in the solution. So my refactorings aimed to make that loop appears: introducing deliberate duplication so that each line looks the same, then unifying indices.
+
+Introducing one change at a time allow my test to be very efficient in helping me to find the errors I've made[^7].
+
+The full code is available on [my github](https://github.com/avernois/kata-diamond_java). Look in the branches :)[^8]
+
+## next
 Once there, if it was real code, I will probably give name to `size -2` and `-(size - 2)`. Maybe attic and cellar to stick with the building metaphore. And `size` should probably become `height`.
 
 I also don't really like the use of a `Character` everywhere will in fact it is a kind of diamond. So i'll introduce a `DiamondKind` class to hold the `Character` and `size`[^3], `width` calculation. Maybe other `Character` operations too[^4].
@@ -423,3 +436,6 @@ image : By kubotake [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), via
 [^3]: or height
 [^4]: like a `charForFloor`
 [^5]: but currently the use of `floor` is an implementation detail, not sure if it's a good idea to give its own class that will become public.
+[^6]: on my way home from the awesome [Ncrafts](http://ncrafts.io) conference.
+[^7]: and I made a lot of them. +1/-1 shifts are my personal hell :)
+[^8]: in the [branch 2015.05.23-step_by_step](https://github.com/avernois/kata-diamond_java/tree/2015.05.23-step_by_step), I made a commit at each step with some explanation of the purpose of that step. Mostly, it is what you find in this post.
