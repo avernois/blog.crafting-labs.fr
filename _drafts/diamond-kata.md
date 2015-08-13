@@ -4,9 +4,7 @@ title: "Diamond Kata"
 
 categories:
 ---
-
-I heard a lot about this kata. Recently[^1], it was the main subject of a two hours workshop at the awesome [NCrafts](http://ncrafts.io) conference.
-So long time after the initial battle[^2], I decided to give it a try.
+[![By kubotake [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kubotake_-_Diamond_ring_on_22_Jul._2009_%28by%29.jpg/320px-Kubotake_-_Diamond_ring_on_22_Jul._2009_%28by%29.jpg)](https://commons.wikimedia.org/wiki/File:Kubotake_-_Diamond_ring_on_22_Jul._2009_%28by%29.jpg){: .left-image}
 
 ## the problem: the diamond kata
 I use Seb Rose description as it is simple and efficient.
@@ -20,6 +18,10 @@ I use Seb Rose description as it is simple and efficient.
     C   C
      B B
       A
+
+
+I heard a lot about this kata. Recently[^1], it was the main subject of a two hours workshop at the awesome [NCrafts](http://ncrafts.io) conference.
+So long time after the initial battle[^2], I decided to give it a try.
 
 ## my solution
 
@@ -409,14 +411,12 @@ I also don't really like the use of a `Character` everywhere will in fact it is 
 
 Maybe a `Floor` class too[^5].
 
-
 The "A" diamond would probably become a constant with a name.
 
 ------
+image : By kubotake [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons. During a solar eclipse, in french, the third contact is also called "Effet diamant" or diamond effect.
 
--- note : 
 
--- illustration : [2013.08 escala solidcrafters.0179 by Antoine Vernois](https://www.flickr.com/photos/antoinevernois/16448025843) en CC-BY-NC 2.0
 
 [^1]: well, it was recent when I started write that post.
 [^2]: started I think with this post [Recycling test in TDD](http://claysnow.co.uk/recycling-tests-in-tdd/) by Seb Rose.
