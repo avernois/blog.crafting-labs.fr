@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "Diamond Kata"
-
+date: 2015-08-18 20:20:00 +0200
+lang: en
 categories:
+ - "kata"
+ - "tdd"
+ - "code"
 ---
 [![By kubotake [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kubotake_-_Diamond_ring_on_22_Jul._2009_%28by%29.jpg/320px-Kubotake_-_Diamond_ring_on_22_Jul._2009_%28by%29.jpg)](https://commons.wikimedia.org/wiki/File:Kubotake_-_Diamond_ring_on_22_Jul._2009_%28by%29.jpg){: .left-image}
 
