@@ -357,7 +357,7 @@ private static String diamondWall(int size, int floor, String wall) {
 {% endhighlight %}
 
 Well, there seems to have a loop hidden there. The problem to introduce it are those characters in the parameters of diamondWall call.
-But we can easily get ride of them as the character used in a floor can be compute from the size of the diamond and the current floor.
+But we can easily get rid of them as the character used in a floor can be compute from the size of the diamond and the current floor.
 
 
 {% highlight java %}
