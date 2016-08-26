@@ -3,6 +3,7 @@ layout: post
 title: "About phone calls"
 categories: 
 - "phone"
+date: 2016-08-26 10:50:00 +0200
 ---
 
 [![Antique Phone by Vincent Diamante, on Flickr](https://c1.staticflickr.com/1/109/257938752_3a17563047_n.jpg)](https://www.flickr.com/photos/sklathill/){: .left-image}
