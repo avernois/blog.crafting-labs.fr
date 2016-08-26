@@ -15,7 +15,7 @@ Well that's not totally wrong, I don't really like that.
 
 But that's not the reason I'm not using it in my daily professional life.
 
-I'm a software developper and my job mainly consists in three kinds of activities: 
+I'm a software developer and my job mainly consists in three kinds of activities:
 
 - writing software
 - learning things
@@ -40,7 +40,7 @@ Yeah, that's bad, and quite an easy move to quickly lost their respect and trust
 
 If it's a real emergency, like a 'someone is going to die' emergency, I'm probably not the person you should be calling right now[^1][^2], I am not a doctor[^5] or a fireman.
 
-Let's be honest, I'm a software developper, I build software and help people write better software. There is nothing in what I do that can't wait for an hour or two. Your emergency is not really an emergency. It can wait.
+Let's be honest, I'm a software developer, I build software and help people write better software. There is nothing in what I do that can't wait for an hour or two. Your emergency is not really an emergency. It can wait.
 
 If really you have to deal with software emergency, then have a procedure for that[^4]. 
 Calling someone who does not expect to be called to solve a real emergency quite often ends badly.
@@ -51,7 +51,7 @@ Calling someone who does not expect to be called to solve a real emergency quite
 And that's awesome! I'll probably enjoy talking to you too :)
 
 There plenty of great asynchronous way of communication like e-mail, phone text message, twitter (public or private message), hangout, IRC, ...[^3]
-Such systems are great we can have a conversation each at our own rythm, we can choose the right moment to answer, no more rush, no more disturbance. That's good.
+Such systems are great we can have a conversation each at our own pace, we can choose the right moment to answer, no more rush, no more disturbance. That's good.
 
 Sometimes we'll end by planing a date and time to have a call. 
 Planned calls are nice, we can make sure that they won't break anything when they'll occur.
@@ -66,4 +66,4 @@ image : [Antique Phone by Vincent Diamante](https://www.flickr.com/photos/sklath
 [^2]: unless you're someone very very close to me, then I know that you calling me means it's an emergency and totally worth losing time or trust of a client.
 [^3]: please, be specific in your message, a "call me please" is not enough :)
 [^4]: and it may be a good idea to think about the way you build software to avoid that. I can help, [contact me](/contact) :)
-[^5]: well, that's not true. I'm a doctor, but no that kind of doctor :)
+[^5]: well, that's not true. I'm a doctor, but not that kind of doctor :)
