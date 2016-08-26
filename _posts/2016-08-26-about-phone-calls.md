@@ -9,7 +9,7 @@ date: 2016-08-26 10:50:00 +0200
 [![Antique Phone by Vincent Diamante, on Flickr](https://c1.staticflickr.com/1/109/257938752_3a17563047_n.jpg)](https://www.flickr.com/photos/sklathill/){: .left-image}
 
 I quite never answer to phone call and I rarely phone.
-People assumes it's because I hate phones or that I'm affraid of them.
+People assumes it's because I hate phones or that I'm afraid of them.
 
 Well that's not totally wrong, I don't really like that. 
 
