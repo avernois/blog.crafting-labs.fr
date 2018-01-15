@@ -36,7 +36,7 @@ Pour les lieux, on se posera comme je fais au quotidien en naviguant entre chez 
 # Comment ça se passe ?
 
 On choisi ensemble un de mes projets, et on travaille dessus ensemble en binôme.
-J'ai toute sorte de projets en stocks, essentiellement de type 'backend'/'api'. J'ai aussi quelques trucs plus expérimentaux comme [Gouge](https://gitlab.com/avernois/gouge) par exemple.
+J'ai toute sorte de projets[^6] en stocks, essentiellement de type 'backend'/'api'. J'ai aussi quelques trucs plus expérimentaux comme [Gouge](https://gitlab.com/avernois/gouge) par exemple.
 
 Et par la pratique, on aborde tous les sujets qui font partie du travail de développeur.se.
 
@@ -47,7 +47,7 @@ C'est une question pour laquelle je n'ai pas encore complètement la réponse:
 * Ce que je sais : cela fonctionnera par journée.
 * Ce que je ne sais pas encore : est-ce que l'on fait juste une journée, plusieurs jours de suite, plusieurs jours espacés, autre ?
 
-Du coup, je commencerai bien par une journée, et on verra ensuite. Mais je suis ouvert aux suggestions.
+Du coup, je commencerais bien par une journée, et on verra ensuite. Mais je suis ouvert aux suggestions.
 
 
 # Il y a des pré requis ?
@@ -86,3 +86,4 @@ On peut me joindre par email via ce [formulaire de contact](/contact/) ou sur tw
 [^3]: yep, même à 2 :)
 [^4]: on ne fera peut être pas tout à chaque session, cela dépendra des besoins du contexte.
 [^5]: moi je gagne des sous, vous vous apprenez des trucs concrets (et au passage, vous sortez un peu de votre environnement :p)
+[^6]: évidement, il s'agit uniquement de projet open source pour lesquels personne ne me finance.
