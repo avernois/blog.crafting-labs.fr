@@ -24,18 +24,18 @@ On mettra en oeuvre l'intégration continue, la revue de code[^3] et tout ce qui
 # C'est quoi le lien avec le terme phorésie de l'intro ?
 
 Il y a phorésie quand un individu va quelque part et qu'un autre profite du transport pour faire le trajet.
-Avec ou sans vous, je ferai ces projets de la même façon, je vous propose de profiter du voyage dans une relation que nous soit mutuellement profitable[^5].
+Avec ou sans vous, je ferai ces projets de la même façon, je vous propose de profiter du voyage dans une relation qui nous soit mutuellement profitable[^5].
 
 # Où ça se passe ?
 
-Potentiellement n'importe où, même si pour les premières sessions Toulouse (où j'habite la plupart du temps) me semble un bon terrain de jeu.
+Potentiellement n'importe où, même si, pour les premières sessions, Toulouse (où j'habite la plupart du temps) me semble un bon terrain de jeu.
 Cela dit, je ne vois pas d'inconvénient à faire ça n'importe où en Europe[^2].
 
 Pour les lieux, on se posera comme je fais au quotidien en naviguant entre chez moi (ou un airbnb si en dehors de Toulouse) et les cafés, bibliothèques et autres lieux publiques.
 
 # Comment ça se passe ?
 
-On choisi ensemble un de mes projets, et on travaille dessus ensemble en binôme.
+On choisit ensemble un de mes projets, et on travaille dessus en groupe.
 J'ai toute sorte de projets[^6] en stocks, essentiellement de type 'backend'/'api'. J'ai aussi quelques trucs plus expérimentaux comme [Gouge](https://gitlab.com/avernois/gouge) par exemple.
 
 Et par la pratique, on aborde tous les sujets qui font partie du travail de développeur.se.
@@ -50,15 +50,15 @@ C'est une question pour laquelle je n'ai pas encore complètement la réponse:
 Du coup, je commencerais bien par une journée, et on verra ensuite. Mais je suis ouvert aux suggestions.
 
 
-# Il y a des pré requis ?
+# Il y a des pré-requis ?
 
 Pas vraiment. J'aimerai que ce soit le plus ouvert possible. 
 
 Un des avantages de travailler avec un tout petit groupe (2 personnes max) c'est que je peux adapter au contexte et m'assurer que ça roule pour tout le monde.
 
-# Ça lieu quand ?
+# Ça a lieu quand ?
 
-Arbitrairement pose la date du 1er février pour la première version. 
+Arbitrairement, je pose la date du 1er février pour la première version. 
 Mais c'est juste pour poser une date, en vrai c'est quand tu veux, si je n'ai rien d'autre de prévu ce jour là.
 
 # Combien ça coûte ?
