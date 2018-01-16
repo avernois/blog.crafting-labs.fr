@@ -80,6 +80,11 @@ Cool, j'ai des réponses. À voir si elles correspondent :)
 
 On peut me joindre par email via ce [formulaire de contact](/contact/) ou sur twitter [@avernois](https://twitter.com/avernois) (mes dm sont ouverts).
 
+-----
+
+-- Un grand merci à Ludovic pour sa relecture attentive
+
+-- Image : [Lemonshark](https://fr.wikipedia.org/wiki/Phor%C3%A9sie#/media/File:Lemonshark.jpg) par Albert kok [CC BY SA 3.0 ](https://creativecommons.org/licenses/by-sa/3.0/deed.en), via Wikimedia Commons
 
 [^1]: tu n'auras pas de facture.
 [^2]: cela peut avoir un impact sur le prix, l'idée reste que l'opération soit financièrement rentable pour moi :)
