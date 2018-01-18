@@ -1,4 +1,8 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '2.5.3'
+gem 'jekyll', '3.7'
 gem 'therubyracer'
+
+group :jekyll_plugins do
+    gem "jekyll-paginate"
+end
