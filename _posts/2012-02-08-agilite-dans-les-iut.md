@@ -14,8 +14,8 @@ Au total, une cinquantaine de personnes représentants 27 IUT des quatre coins d
 
 
 Le jeudi était consacré à des présentations théorique le matin et des ateliers pratique et/ou ludique l'après midi.
-[![Une prise de note de Fabrice](https://blog.crafting-labs.fr/images/2012.02.02_-_IUT_Journee_Agilite/.2012.02.02_-_IUT_-_Journee_Agilite.041_1_s.jpg){: .right-image}
-](/images/2012.02.02_-_IUT_Journee_Agilite/2012.02.02_-_IUT_-_Journee_Agilite.041_1.jpg)
+[![Une prise de note de Fabrice](https://blog-img.crafting-labs.fr/2012.02.02_-_IUT_Journee_Agilite/.2012.02.02_-_IUT_-_Journee_Agilite.041_1_s.jpg){: .right-image}
+](https://blog-img.crafting-labs.fr/2012.02.02_-_IUT_Journee_Agilite/2012.02.02_-_IUT_-_Journee_Agilite.041_1.jpg)
 Au programme, nous retrouvions des visages bien connus de l'agilité : 
 
 * Laurent Bossavit : nous a parlé d'Agilité, une discipline en devenir. Il revient un peu sur l'histoire de l'agilité, ce que c'était au départ, là où ça en est maintenant.
@@ -26,7 +26,7 @@ Au programme, nous retrouvions des visages bien connus de l'agilité :
 Avec mes camarades Fabrice Aimetti et Philippe Launay, nous étions invités à cette journée afin d'animer une partie de notre Sky Castle Game.
 
 C'était la quatrième fois que nous jouions notre Sky Castle Game[^2].
-[![Sky Castle Game](https://blog.crafting-labs.fr/images/2012.02.02_-_IUT_Journee_Agilite/.2012.02.02_-_IUT_-_Journee_Agilite.102_1_s.jpg){: .left-image}](https://blog.crafting-labs.fr/images/2012.02.02_-_IUT_Journee_Agilite/2012.02.02_-_IUT_-_Journee_Agilite.102_1.jpg)
+[![Sky Castle Game](https://blog-img.crafting-labs.fr/2012.02.02_-_IUT_Journee_Agilite/.2012.02.02_-_IUT_-_Journee_Agilite.102_1_s.jpg){: .left-image}](https://blog-img.crafting-labs.fr/2012.02.02_-_IUT_Journee_Agilite/2012.02.02_-_IUT_-_Journee_Agilite.102_1.jpg)
 J'étais une petit peu inquiet avant de démarrer car le public qui allait jouer n'étais pas celui pour lequel nous avions pensé le jeu.
 Mais encore une fois, le jeu a reçu un très bon accueil.
 Et encore une fois, nous avons eu des réactions et une approche du jeu par les participants très différentes des fois précédentes.

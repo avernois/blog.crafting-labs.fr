@@ -5,7 +5,7 @@ date: 2011-08-19 15:18:00 +0100
 comments: false
 categories: 
 ---
-![DSC 0857 s.jpg](https://blog.crafting-labs.fr/images/illustration/.DSC_0857_s_s.jpg){: .left-image}
+![DSC 0857 s.jpg](https://blog-img.crafting-labs.fr/illustration/.DSC_0857_s_s.jpg){: .left-image}
 Lors d'un sprint l'équipe s'est retrouvée face a un problème dont nous étions tous conscient mais dont les réelles causes continuaient à nous échapper.
 
 Lors de la rétrospective, nous avons alors utilisé la technique des ''5 pourquoi'' pour aller aux racines du mal et éviter de se contenter d'effleurer la surface.

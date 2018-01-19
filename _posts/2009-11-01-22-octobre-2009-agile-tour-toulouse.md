@@ -9,7 +9,7 @@ categories:
 - "scrum"
 - "toulouse"
 ---
-![agiletour logo.jpg](https://blog.crafting-labs.fr/images/agiletour_logo.jpg){: .left-image}
+![agiletour logo.jpg](https://blog-img.crafting-labs.fr/agiletour_logo.jpg){: .left-image}
  Le 20 octobre 2009 avait lieu l'étape toulousaine de l'Agile Tour, hébergé par l'IUT Blagnac. La conférence a eu lieu sur la journée. Plus de 250 inscrits, dont moi :). Je suis un peu à la bourre pour mon retour, et il n'est pas fini. En voilà la première partie...
 
 

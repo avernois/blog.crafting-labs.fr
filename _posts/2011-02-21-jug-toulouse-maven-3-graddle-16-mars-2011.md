@@ -11,7 +11,7 @@ categories:
 - "maven"
 - "toulouse"
 ---
-![jug.jpg](https://blog.crafting-labs.fr/images/logo/.jug_s.jpg){: .left-image}
+![jug.jpg](https://blog-img.crafting-labs.fr/logo/.jug_s.jpg){: .left-image}
  Ces derniers jours, le Java User Group toulousain s'est constitué officiellement en association avec une équipe motivée, du sang neuf et plein d'idées et de projets dans les cartons. 
 En guise de démarrage, le JUGToulouse organise une grande soirée Maven 3 // Graddle.
 

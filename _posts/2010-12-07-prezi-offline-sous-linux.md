@@ -10,7 +10,7 @@ categories:
 - "prezi"
 - "ubuntu"
 ---
-![prezi logo.jpg](https://blog.crafting-labs.fr/images/logo/.prezi_logo_s.jpg){: .left-image}
+![prezi logo.jpg](https://blog-img.crafting-labs.fr/logo/.prezi_logo_s.jpg){: .left-image}
 [Prezi](http://www.prezi.com), c'est un système pour faire des présentations un peu originals. Prezi, c'est une sympathique alernative aux lineaires powerpoint ou open office. Le système d'édition est en flash et en ligne, et fonctioinne très bien sous linux.
 Par contre, officiellement, la version gratuite de présentation offline n'est supporté que pour Windows et MacOS.
 

@@ -10,8 +10,8 @@ categories:
 - "job"
 - "toulouse"
 ---
-[![GDCR-by-Enflammee.3.jpg](https://blog.crafting-labs.fr/images/2011.12.03_-_GDCR/.GDCR_by_Enflammee.3_s.jpg){: .left-image}
-](https://blog.crafting-labs.fr/images/2011.12.03_-_GDCR/GDCR_by_Enflammee.3.jpg)Le code retreat organisé à Toulouse en Décembre dernier dans le cadre du[ Global Day of Code Retreat](/?post/2011/11/05/Code-Retreat-Toulouse-3-d%C3%A9cembre) a eu de nombreuses suites.
+[![GDCR-by-Enflammee.3.jpg](https://blog-img.crafting-labs.fr/2011.12.03_-_GDCR/.GDCR_by_Enflammee.3_s.jpg){: .left-image}
+](https://blog-img.crafting-labs.fr/2011.12.03_-_GDCR/GDCR_by_Enflammee.3.jpg)Le code retreat organisé à Toulouse en Décembre dernier dans le cadre du[ Global Day of Code Retreat](/?post/2011/11/05/Code-Retreat-Toulouse-3-d%C3%A9cembre) a eu de nombreuses suites.
 
 
 ##Sur le coup
@@ -25,8 +25,8 @@ Nous venons d'organiser [notre premier coding dojo](/?post/2012/02/06/1er-coding
 Le code retreat m'a permis de voir que je n'étais pas le seul à penser que ce genre d'évènements était important et que les développeurs avaient besoin de se retrouver entre eux pour pratiquer en dehors du contexte de production.
 
 ##le second effet kiss cool
-[![GDCR-by-Enflammee.2.jpg](https://blog.crafting-labs.fr/images/2011.12.03_-_GDCR/.GDCR_by_Enflammee.2_s.jpg){: .right-image}
-](https://blog.crafting-labs.fr/images/2011.12.03_-_GDCR/GDCR_by_Enflammee.2.jpg)Il y a également eu une autre conséquence heureuse à laquelle je ne m'attendais pas spécialement. En fait deux.
+[![GDCR-by-Enflammee.2.jpg](https://blog-img.crafting-labs.fr/2011.12.03_-_GDCR/.GDCR_by_Enflammee.2_s.jpg){: .right-image}
+](https://blog-img.crafting-labs.fr/2011.12.03_-_GDCR/GDCR_by_Enflammee.2.jpg)Il y a également eu une autre conséquence heureuse à laquelle je ne m'attendais pas spécialement. En fait deux.
 
 Dans la foulée un des participants qui cherchait du boulot a été recruté par le sponsor[^2] de la journée. Ça c'est cool.
 

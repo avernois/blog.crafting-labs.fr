@@ -11,16 +11,16 @@ categories:
 - "scrum"
 - "sigmat"
 ---
-![sigmat.PNG](https://blog.crafting-labs.fr/images/logo/.sigmat_s.jpg){: .left-image}
+![sigmat.PNG](https://blog-img.crafting-labs.fr/logo/.sigmat_s.jpg){: .left-image}
  Jeudi dernier, c'est SigmaT17, le SigmaT nouvelle formule. À la Cantine, une trentaine de personnes s'était réunie pour écouter Olivier Béarn et Frédéric Duffau nous parler du rôle de Product Owner. Et continuer les débats autour de l'apéro :)
 
 
-![DSC 6061 r.JPG](https://blog.crafting-labs.fr/images/2011.04.07_-_SigmaT17/.DSC_6061_r_s.jpg){: .right-image}
+![DSC 6061 r.JPG](https://blog-img.crafting-labs.fr/2011.04.07_-_SigmaT17/.DSC_6061_r_s.jpg){: .right-image}
 C'est Olivier Béarn qui ouvre la session avec une présentation du rôle du Product Owner. Je ne vais pas revenir en détail sur cette présentation au contenu théorique et pédagogique, d'autres l'on déjà fait bien mieux. Si vous souhaitez découvrir ce rôle et ce qu'il implique, faites donc un tour sur le blog de [Claude Aubry](http://www.aubryconseil.com/?q=product+owner) ou son [livre sur Scrum](http://rcm-fr.amazon.fr/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=monbloamoique-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=2100540181), les traductions de [Fabrice Aimetti](http://www.fabrice-aimetti.fr/index.php?q=product+owner+traduction) ou encore [Google](http://www.google.fr/#q=product+owner).
 
 Ensuite, Frédéric Duffau prend la parole pour un retour d'expérience sur un projet qu'il a accompagné. Il s'agit d'un projet au forfait[^1] réalisé par sa SSII pour le CNES.
 Dans ce projet, le Product Owner était un membre du CNES mais l'importance de son rôle avait été sous estimée par lui et/ou son organisation, ce qu'il fait qu'il n'était pas en mesure de s'occuper correctement de son backlog.
-![DSC 6066 r.JPG](https://blog.crafting-labs.fr/images/2011.04.07_-_SigmaT17/.DSC_6066_r_s.jpg){: .left-image}
+![DSC 6066 r.JPG](https://blog-img.crafting-labs.fr/2011.04.07_-_SigmaT17/.DSC_6066_r_s.jpg){: .left-image}
 Le Scrum Master de l'équipe s'est alors transformé en proxy du product owner. Son rôle premier de Scrum Master a alors été transféré à une autre personne[^2].
 L'objectif de ce proxy était de remplacer le Product Owner dans les contacts au quotidien avec l'équipe de développement et de l'aider à écrire le product backlog le temps qu'il se forme aux exigences du rôle de PO et qu'il se libère suffisamment de temps pour le remplir correctement.
 Et c'est là que le retour de Frédéric est très intéressant, c'est qu'ils ont réussi à impliquer le client et convaincre son organisation qu'il devait être sur le projet à plein temps. Aujourd'hui, le proxy est redevenu le Scrum Master de l'équipe et le Product Owner joue son rôle naturellement. La preuve qu'il est possible de faire bouger, au moins localement, une grosse organisation pas spécialement agile.

@@ -11,7 +11,7 @@ categories:
 - "rétrospective"
 - "toulouse"
 ---
-![toulouse JUG](https://blog.crafting-labs.fr/images/logo/.juggy-02_s.jpg){: .left-image}
+![toulouse JUG](https://blog-img.crafting-labs.fr/logo/.juggy-02_s.jpg){: .left-image}
 Bon, je suis encore une fois pas en avance pour mon retour sur la derniète conf à laquelle j'ai assisté.
 
 Donc comme je l'annonçais dans un [billet précédent](/index.php?post/2011/03/22/16-mars-2011-Maven-3-//-Graddle-Toulouse-JUG), mercredi dernier avait lieu la première soirée la nouvelle formulle de la version toulousaine du Java User Group
@@ -23,8 +23,8 @@ Pour cette première soirée, nous avons intercepté Grégory Boissinot et Arnau
 
 Hop, je me ressers du format rétrospective de [Fabrice](http://www.fabrice-aimetti.fr) pour mon retour sur cette soirée.
 
-##Ce qui s'est bien passé [![DSC 5616.jpg](https://blog.crafting-labs.fr/images/2011.03.16_-_JUG/.DSC_5616_s.jpg){: .right-image}
-](/images/2011.03.16_-_JUG/DSC_5616.jpg)
+##Ce qui s'est bien passé [![DSC 5616.jpg](https://blog-img.crafting-labs.fr/2011.03.16_-_JUG/.DSC_5616_s.jpg){: .right-image}
+](https://blog-img.crafting-labs.fr/2011.03.16_-_JUG/DSC_5616.jpg)
 * une centaine personnes ont répondu à l'appel, avec des profils très variés
 * 14 personnes au resto après
 * des présentations de très bonne qualité
@@ -42,8 +42,8 @@ Hop, je me ressers du format rétrospective de [Fabrice](http://www.fabrice-aime
 * quels sujets pour les prochaines soirées ?
 * david, faut qu'on arrête une date pour notre dojo
 
-[![DSC 5658.jpg](https://blog.crafting-labs.fr/images/2011.03.16_-_JUG/.DSC_5658_s.jpg){: .right-image}
-](/images/2011.03.16_-_JUG/DSC_5658.jpg)
+[![DSC 5658.jpg](https://blog-img.crafting-labs.fr/2011.03.16_-_JUG/.DSC_5658_s.jpg){: .right-image}
+](https://blog-img.crafting-labs.fr/2011.03.16_-_JUG/DSC_5658.jpg)
 ##Leçons (re-)apprises 
 * pas de grandes révolutions dans maven 3, c'est essentiellement architectural pour préparer des évolutions à venir.
 * Gradle apporte une souplesse qui n'existe pas dans maven. Une bonne idée quand on a des projets qui sortent des sentiers battus.
@@ -54,8 +54,8 @@ Hop, je me ressers du format rétrospective de [Fabrice](http://www.fabrice-aime
 
 
 ##Remerciements
-[![DSC 5674.jpg](https://blog.crafting-labs.fr/images/2011.03.16_-_JUG/.DSC_5674_s.jpg){: .right-image}
-](/images/2011.03.16_-_JUG/DSC_5674.jpg)
+[![DSC 5674.jpg](https://blog-img.crafting-labs.fr/2011.03.16_-_JUG/.DSC_5674_s.jpg){: .right-image}
+](https://blog-img.crafting-labs.fr/2011.03.16_-_JUG/DSC_5674.jpg)
 * Arnaud et Gregory, votre enthousiasme est ommunicatif
 * Epitech Toulouse qui une fois de plus nous a accueilli dans ses locaux
 * toute l'équipe du Toulouse JUG pour avoir préparé cette soirée
@@ -66,8 +66,8 @@ Hop, je me ressers du format rétrospective de [Fabrice](http://www.fabrice-aime
 * on prépare le programme de la prochaine soirée, fin avril, stay tunned[^2]
 
 
-[![DSC 5651.jpg](https://blog.crafting-labs.fr/images/2011.03.16_-_JUG/.DSC_5651_m.jpg)
-](/images/2011.03.16_-_JUG/DSC_5651.jpg)
+[![DSC 5651.jpg](https://blog-img.crafting-labs.fr/2011.03.16_-_JUG/.DSC_5651_m.jpg)
+](https://blog-img.crafting-labs.fr/2011.03.16_-_JUG/DSC_5651.jpg)
 
 
 ##Feedback

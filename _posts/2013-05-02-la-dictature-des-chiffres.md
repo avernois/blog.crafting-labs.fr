@@ -9,8 +9,8 @@ categories:
 - "indicateur"
 - "sens"
 ---
-[![Cluj, panneau](https://blog.crafting-labs.fr/images/illustration/.2007.09-ICCP-313_m.jpg){: .left-image}
-](/images/illustration/2007.09-ICCP-313.jpg)
+[![Cluj, panneau](https://blog-img.crafting-labs.fr/illustration/.2007.09-ICCP-313_m.jpg){: .left-image}
+](https://blog-img.crafting-labs.fr/illustration/2007.09-ICCP-313.jpg)
 
 Entendu sur des projets :
 
@@ -45,7 +45,7 @@ Bien sûr que non[^6] ! Mais on les utilise pour ce qu'ils sont : des indicateur
 Ce qui est intéressant n'est pas le chiffre, mais la réalité qu'il est censé refléter. Et c'est cette réalité qui doit être le centre premier de l'attention.
 
 Il ne faut pas jeter les chiffres pour autant. Je me sers presque tout le temps de tout un tas de métriques. Mais bien souvent je n'en utilise vraiment qu'une à la fois.
-![2012.03.16 - Agile Open Sud - Banyuls.0216.jpg](https://blog.crafting-labs.fr/images/illustration/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216_m.jpg){: .right-image}
+![2012.03.16 - Agile Open Sud - Banyuls.0216.jpg](https://blog-img.crafting-labs.fr/illustration/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216_m.jpg){: .right-image}
 
 ## Concrètement
 Imaginons qu'une équipe décide d'augmenter sa pratique des tests unitaires. Le taux de couverture ou le nombre de tests sont des indicateurs pertinents. On va donc les afficher bien en vue de tous en les mettant à jour régulièrement[^7], éventuellement avec un petit graphique d'historique pour voir la progression.

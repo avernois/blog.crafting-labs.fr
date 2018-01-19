@@ -11,7 +11,7 @@ categories:
 - "lyon"
 - "montpellier"
 ---
-![DSC 6161 s.JPG](https://blog.crafting-labs.fr/images/illustration/.DSC_6161_s_s.jpg){: .left-image}
+![DSC 6161 s.JPG](https://blog-img.crafting-labs.fr/illustration/.DSC_6161_s_s.jpg){: .left-image}
  Dans [mon précédent billet](/?post/2012/02/10/Code-Retreat-%3A-le-second-effet-kiss-cool), je disais qu'il y avait de plus en plus d'évènements qui s'organisaient autour du code. Et bien, j'ai des preuves et je mets moi même la main à la pâte :)
 
 

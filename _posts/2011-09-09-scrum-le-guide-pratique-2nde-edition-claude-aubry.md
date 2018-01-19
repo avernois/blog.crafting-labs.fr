@@ -9,7 +9,7 @@ categories:
 - "lecture"
 - "scrum"
 ---
-![aubry-scrum-v2.jpg](https://blog.crafting-labs.fr/images/couverture/.aubry_-_scrum-v2_s.jpg){: .left-image}
+![aubry-scrum-v2.jpg](https://blog-img.crafting-labs.fr/couverture/.aubry_-_scrum-v2_s.jpg){: .left-image}
 Quatrième de couverture :
 
 > Cet ouvrage s’adresse à toutes les personnes impliquées dans le développement qui souhaitent s’initier aux méthodes de développement agile, qu’ils soient futurs utilisateurs, chefs de produit, développeurs ou managers. Ceux qui ont déjà une première expérience de Scrum y trouveront de quoi approfondir leurs connaissances.''

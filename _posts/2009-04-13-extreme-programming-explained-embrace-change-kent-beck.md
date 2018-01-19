@@ -9,7 +9,7 @@ categories:
 - "lecture"
 - "xp"
 ---
-[![beck-XP eplained.jpg](https://blog.crafting-labs.fr/images/couverture/.beck_-_XP_eplained_s.jpg){: .left-image}](
+[![beck-XP eplained.jpg](https://blog-img.crafting-labs.fr/couverture/.beck_-_XP_eplained_s.jpg){: .left-image}](
 http://www.amazon.fr/gp/product/0321278658?ie=UTF8&tag=monbloamoique-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=0321278658)
 Quatrième de couverture :
 

@@ -9,7 +9,7 @@ categories:
 - "coaching"
 - "lecture"
 ---
-![daviessedley-agile coaching.jpg](https://blog.crafting-labs.fr/images/couverture/.davies_sedley_-_agile_coaching_s.jpg){: .left-image}
+![daviessedley-agile coaching.jpg](https://blog-img.crafting-labs.fr/couverture/.davies_sedley_-_agile_coaching_s.jpg){: .left-image}
 Quatrième de couverture : 
 
 > Agile Coaching is all about working with people to create great Agile teams With this book, you'll learn how to build a team that produces great software and has fun doing it. In the process, you'll grow a team that's self-sufficient and skillful.

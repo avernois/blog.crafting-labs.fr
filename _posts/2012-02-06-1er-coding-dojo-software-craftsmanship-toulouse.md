@@ -10,7 +10,7 @@ categories:
 - "pair programming"
 - "tdd"
 ---
-![DSC-6161-s.JPG](https://blog.crafting-labs.fr/images/illustration/.DSC_6161_s_s.jpg){: .left-image}
+![DSC-6161-s.JPG](https://blog-img.crafting-labs.fr/illustration/.DSC_6161_s_s.jpg){: .left-image}
  Ce soir se tenait le tout premier coding dojo de la naissante communaute Software Craftsmanship Toulouse.
 
 Initialement, 18 personnes étaient inscrites mais la neige a eu raison de la moitié d'entre eux, nous étions 9 à nous retrouver à l'IUT Toulouse pour cette fin de journée.

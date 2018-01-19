@@ -5,8 +5,8 @@ date: 2014-04-23 12:10:00 +0100
 comments: false
 categories: 
 ---
-[![wall-e.jpeg](https://blog.crafting-labs.fr/images/illustration/.wall-e_s.jpg){: .left-image}
-](/images/illustration/wall-e.jpeg)J'ai l'impression, depuis quelques temps, d'avoir régulièrement cette conversation et en 3 jours de Devoxx France, elle est revenue au moins 5 ou 6 fois. 
+[![wall-e.jpeg](https://blog-img.crafting-labs.fr/illustration/.wall-e_s.jpg){: .left-image}
+](https://blog-img.crafting-labs.fr/illustration/wall-e.jpeg)J'ai l'impression, depuis quelques temps, d'avoir régulièrement cette conversation et en 3 jours de Devoxx France, elle est revenue au moins 5 ou 6 fois. 
 
 > Comment on change le monde ? 
 

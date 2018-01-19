@@ -5,7 +5,7 @@ date: 2011-09-03 13:26:00 +0100
 comments: false
 categories: 
 ---
-![toulouse JUG](https://blog.crafting-labs.fr/images/logo/.juggy-02_s.jpg){: .left-image}
+![toulouse JUG](https://blog-img.crafting-labs.fr/logo/.juggy-02_s.jpg){: .left-image}
 Cet été, Java 7 est sorti dans une certaine indifférence[^1].
 
 Même si cette première mouture ''by Oracle'' n'est pas tout à fait à la hauteur des espérances après 4 ans d'attente, elle apporte tout de même son lot de nouveautés intéressantes.

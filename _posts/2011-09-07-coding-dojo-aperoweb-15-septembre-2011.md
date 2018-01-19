@@ -10,7 +10,7 @@ categories:
 - "ruby"
 - "toulouse"
 ---
-![DSC 6161 s.JPG](https://blog.crafting-labs.fr/images/illustration/.DSC_6161_s_s.jpg){: .left-image}
+![DSC 6161 s.JPG](https://blog-img.crafting-labs.fr/illustration/.DSC_6161_s_s.jpg){: .left-image}
  Il y a longtemps que je parle d'organiser des coding dojo sur toulouse, avec la sigmat, avec le Toulouse Jug et plus récemment avec @aperoweb.
 Et c'est avec ces derniers que la chose va se concrétiser.
 Le 15 septembre prochain,  nous animerons un coding dojo hébergé dans les locaux de [X-Prime](http://www.x-prime.com/).

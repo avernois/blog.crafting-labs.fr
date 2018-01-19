@@ -11,8 +11,8 @@ categories:
 - "integration"
 - "jenkins"
 ---
-[![2012.08.10-Ardfeedback.046.jpg](https://blog.crafting-labs.fr/images/ardfeedback/.2012.08.10_-_Ardfeedback.046_s.jpg){: .left-image}
-](/images/ardfeedback/2012.08.10_-_Ardfeedback.046.jpg)
+[![2012.08.10-Ardfeedback.046.jpg](https://blog-img.crafting-labs.fr/ardfeedback/.2012.08.10_-_Ardfeedback.046_s.jpg){: .left-image}
+](https://blog-img.crafting-labs.fr/ardfeedback/2012.08.10_-_Ardfeedback.046.jpg)
 J'aime beaucoup [Jenkins](http://www.jenkins-ci.org), je l'installe presque partout où je passe.
 
 Ça faisait longtemps que je voulais bricoler un truc pour rendre physiquement visible le statut des builds.
@@ -82,8 +82,8 @@ Amusez vous, n'hésitez pas à forker et faire des PR pour proposer des améilio
 
 Enjoy !
 
-[![2012.08.10-Ardfeedback.008.jpg](https://blog.crafting-labs.fr/images/ardfeedback/.2012.08.10_-_Ardfeedback.008_m.jpg)
-](/images/ardfeedback/2012.08.10_-_Ardfeedback.008.jpg)
+[![2012.08.10-Ardfeedback.008.jpg](https://blog-img.crafting-labs.fr/ardfeedback/.2012.08.10_-_Ardfeedback.008_m.jpg)
+](https://blog-img.crafting-labs.fr/ardfeedback/2012.08.10_-_Ardfeedback.008.jpg)
 
 # TL;DR
 * [ArdFeedback on github](https://github.com/avernois/ardFeedback)

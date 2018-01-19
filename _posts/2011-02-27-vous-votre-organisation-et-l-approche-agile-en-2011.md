@@ -10,7 +10,7 @@ categories:
 - "organisation"
 - "sug"
 ---
-![SUG France](https://blog.crafting-labs.fr/images/logo/logo_sug.jpeg){: .left-image}
+![SUG France](https://blog-img.crafting-labs.fr/logo/logo_sug.jpeg){: .left-image}
  Presque deux ans après la première, le Scrum User Group français lance une nouvelle enquête sur l'adoption de l'agilité en France.
 
 Intitulée Vous, votre organisation et l'approche Agile en 2011, elle est constituée d'un ensemble de questions relative à l'utilisation des méthodes Agiles au sein de votre organisation.

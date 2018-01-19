@@ -10,7 +10,7 @@ categories:
 - "craftsmanship"
 - "toulouse"
 ---
-![gdcr-logo](https://blog.crafting-labs.fr/images/logo/gdcr-logo-full.png){: .left-image}
+![gdcr-logo](https://blog-img.crafting-labs.fr/logo/gdcr-logo-full.png){: .left-image}
 
 Le 3 décembre 2011, c'est le Global Day of Code Retreat. Et grâce au sponsoring de [DocDoku](http://www.docdoku.com) et au soutien du [Toulouse JUG](http://www.toulousejug.org), Toulouse fera parti de cette grande journée.
 

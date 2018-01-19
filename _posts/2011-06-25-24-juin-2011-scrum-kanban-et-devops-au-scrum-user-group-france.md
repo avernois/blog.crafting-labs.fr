@@ -12,7 +12,7 @@ categories:
 - "scrum"
 - "sug"
 ---
-![SUG France](https://blog.crafting-labs.fr/images/logo/logo_sug.jpeg){: .left-image}
+![SUG France](https://blog-img.crafting-labs.fr/logo/logo_sug.jpeg){: .left-image}
  Retour sur la soirée Scrum, Kanban et Devops du 24 juin 2011.
 
 

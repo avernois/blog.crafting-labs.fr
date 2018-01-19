@@ -8,7 +8,7 @@ categories:
 - "formation"
 - "scrum"
 ---
-![](https://blog.crafting-labs.fr/images/2010.02.15_-_formation_scrum/.DSCN6570_s_t.jpg){: .left-image}
+![](https://blog-img.crafting-labs.fr/2010.02.15_-_formation_scrum/.DSCN6570_s_t.jpg){: .left-image}
 Les 10/11 et 12 février 2010 j'ai eu l'occasion de participer à la formation Scrum de Claude Aubry. En français, sur 3 jours et à portée de transport en commun de Toulouse. Claude est l'auteur du premier livre sur Scrum en français et communique beaucoup sur Scrum et l'agilité sur son blog [Scrum, Agilité et Rock'n Roll](http://www.aubryconseil.com).
 
 

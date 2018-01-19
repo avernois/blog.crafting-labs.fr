@@ -11,7 +11,7 @@ categories:
 - "rétrospective"
 - "speedboat"
 ---
-![hohman-innovation game.jpg](https://blog.crafting-labs.fr/images/couverture/.hohman_-_innovation_game_s.jpg){: .left-image}
+![hohman-innovation game.jpg](https://blog-img.crafting-labs.fr/couverture/.hohman_-_innovation_game_s.jpg){: .left-image}
  Dans notre équipe, le dernier jour du sprint, le matin est dédié à la revue du produit et l'après-midi à la rétrospective
 
 J'essaie souvent de changer le format de la rétrospective. Dernièrement, comme je venais de recevoir [Innovation Games](http://www.amazon.fr/gp/product/0321437292/ref=as_li_ss_tl?ie=UTF8&tag=monbloamoique-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=0321437292) de Luke Hohman, c'était l'occasion d'essayer un de ces jeux.

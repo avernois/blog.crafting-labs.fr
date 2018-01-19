@@ -12,7 +12,7 @@ categories:
 - "sky castle game"
 - "tour"
 ---
-![at2012 speaker.jpg](https://blog.crafting-labs.fr/images/logo/.at2012_speaker_s.jpg){: .left-image}
+![at2012 speaker.jpg](https://blog-img.crafting-labs.fr/logo/.at2012_speaker_s.jpg){: .left-image}
 
 Comme tous les ans, octobre novembre, c'est la période des grosses conférences agiles en France, avec Agile Grenoble et l'[Agile Tour](http://www.agiletour.org).
 
@@ -40,7 +40,7 @@ Bref, une très grosse journée en perspective pour moi, mais avec beaucoup de f
 
 
 # 8 novembre : Agile Grenoble
-![2012 agile grenoble.png](https://blog.crafting-labs.fr/images/logo/2012_agile_grenoble.png){: .right-image}
+![2012 agile grenoble.png](https://blog-img.crafting-labs.fr/logo/2012_agile_grenoble.png){: .right-image}
 
 Agile Grenoble, probablement la plus grosse conf agile en france.
 Les années précédentes, je n'avais pas eu la possibilité d'y aller, alors cette année je me fais plaisir !

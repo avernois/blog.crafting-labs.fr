@@ -11,7 +11,7 @@ categories:
 - "sigmat"
 - "test"
 ---
-![sigmat.PNG](https://blog.crafting-labs.fr/images/logo/.sigmat_s.jpg){: .left-image}
+![sigmat.PNG](https://blog-img.crafting-labs.fr/logo/.sigmat_s.jpg){: .left-image}
 Hier, l'association SigmaT organisait un atelier BDD avec des vrais morceaux de live code dedans. 
 C'est notre bon camarade [Guillaume Saint Etienne](http://www.dotnetguru2.org/gse/index.php) qui s'est attaqué à cet exercice périlleux et une petite quinzaine de personnes étaient là pour assister à l'événement.
 

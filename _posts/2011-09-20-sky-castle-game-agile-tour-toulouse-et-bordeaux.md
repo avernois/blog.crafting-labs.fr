@@ -12,12 +12,12 @@ categories:
 - "teasing"
 - "toulouse"
 ---
-![AT2011-600.jpg](https://blog.crafting-labs.fr/images/logo/.AT2011_600_s.jpg){: .left-image}
+![AT2011-600.jpg](https://blog-img.crafting-labs.fr/logo/.AT2011_600_s.jpg){: .left-image}
 Le 19 octobre 2011 à l'Agile Tour Toulouse 2011 puis le 21 octobre 2011 à l'Agile Tour Bordeaux, j'aurai la chance d'accompagner mes deux camarades bordelais Fabrice Aimetti et Phillipe Launay pour animer le Sky Castle Game !
 
 
-[![teaser.png](https://blog.crafting-labs.fr/images/Sky_Castle_Game/.teaser_m.jpg)
-](/images/Sky_Castle_Game/teaser.png)
+[![teaser.png](https://blog-img.crafting-labs.fr/Sky_Castle_Game/.teaser_m.jpg)
+](https://blog-img.crafting-labs.fr/Sky_Castle_Game/teaser.png)
 
 #Relèverez vous le défi ?
 
