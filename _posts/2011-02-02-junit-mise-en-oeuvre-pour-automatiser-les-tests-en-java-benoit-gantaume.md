@@ -10,7 +10,7 @@ categories:
 - "tdd"
 - "test"
 ---
-![gantaume-junit.jpeg](https://blog.crafting-labs.fr/images/couverture/.gantaume_-_junit_s.jpg){: .left-image}
+![gantaume-junit.jpeg](https://blog-img.crafting-labs.fr/couverture/.gantaume_-_junit_s.jpg){: .left-image}
 __Présentation de l'éditeur :__
 
 > Ce livre sur l’automatisation des tests avec JUnit s'adresse à toutes les personnes impliquées dans des projets de développement logiciel et désireuses de découvrir le potentiel de JUnit. Quelle que soit la façon dont l'équipe de développement travaille, que vous soyez débutant ou expert, manager, développeur, architecte ou chef de projet, ce livre vous permettra d'appréhender les tests automatiques, de les insérer dans une logique de fabrication de logiciels et de les mettre en œuvre efficacement.

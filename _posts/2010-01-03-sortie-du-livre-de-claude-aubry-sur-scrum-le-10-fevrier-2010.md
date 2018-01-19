@@ -8,7 +8,7 @@ categories:
 - "lecture"
 - "scrum"
 ---
-![aubry - scrum.jpg](https://blog.crafting-labs.fr/images/couverture/aubry_-_scrum.jpg){: .left-image}
+![aubry - scrum.jpg](https://blog-img.crafting-labs.fr/couverture/aubry_-_scrum.jpg){: .left-image}
 Présentation de l'éditeur :
 
 > Cet ouvrage s'adresse aux développeurs qui souhaitent s'initier aux méthodes de développement agile, et aux chefs de projet qui veulent améliorer l'organisation et l'efficacité de leurs équipes. Il sera également très utile à ceux qui ont déjà une première expérience de Scrum et qui souhaitent maîtriser la méthode en profondeur. Le but affiché d'une méthode agile est d'améliorer la qualité du produit, tout en réduisant les délais et les coûts. Aujourd'hui Scrum s'est imposée comme la plus répandue des méthodes agiles. Quand on applique Scrum les fonctionnalités sont collectées dans un backlog et classées par priorité. Une version (release) est produite à l'issue d'une série d'itérations, appelées sprints. Pendant un sprint des points de contrôle sont effectués par l'équipe au cours de  mêlées  quotidiennes appelées scrums. Cet ouvrage rassemble non seulement une présentation détaillée des pratiques, mais aussi de nombreux conseils concrets issus de la vraie vie. Il commence par une présentation des méthodes agiles et de Scrum. Il explique ensuite les rôles des deux personnages-clé que sont le ScrumMaster et le Product Owner. Les chapitres suivants expliquent comment organiser et mener à son terme un projet en appliquant Scrum.''

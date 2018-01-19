@@ -11,7 +11,7 @@ categories:
 - "scrumday"
 - "sug"
 ---
-![SUG France](https://blog.crafting-labs.fr/images/logo/logo_sug.jpeg){: .left-image}
+![SUG France](https://blog-img.crafting-labs.fr/logo/logo_sug.jpeg){: .left-image}
  Avec mon camarade bordelais [Fabrice Aimetti](http://www.fabrice-aimetti.fr/), nous avons signé pour une troisième représentation de notre pièce en un acte, inspiré du livre de Henrik Kniberg et Mattias Skarin, ''[Scrum et Kanban : tirer le meilleur des deux](/index.php?post/2010/02/14/Kanban-et-Scrum-%3A-Tirer-le-meilleur-des-deux-les-figures-en-fran%C3%A7ais.)''.
 Ce sera au cours de la soirée organisé par le Scrum User Group Français, le 24 juin 2011 à 18h30 dans les superbes locaux de Microsoft à Issy-les-Moulineaux.
 

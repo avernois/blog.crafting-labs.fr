@@ -11,7 +11,7 @@ categories:
 - "scala"
 - "toulouse"
 ---
-![jug.jpg](https://blog.crafting-labs.fr/images/logo/.jug_s.jpg){: .left-image}
+![jug.jpg](https://blog-img.crafting-labs.fr/logo/.jug_s.jpg){: .left-image}
 Après l'annulation de la soirée Scala en novembre dernier, le JUG Toulouse prend sa revanche, et organise une nouvelle soirée sur le même thème.
 Cette fois, point de guest star international qui nous laisse tomber au dernier moment, la compétence est présente en interne, alors profitons-en !
 C'est Simon Chemouil qui se collera donc à l'exercice dans une présentation prometteuse intitulée : __Scala, pourquoi on en parle ?__

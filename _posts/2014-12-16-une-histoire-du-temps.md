@@ -5,8 +5,8 @@ date: 2014-12-16 16:17:00 +0100
 comments: false
 categories: 
 ---
-[![2010.06.05-montre m.jpg](https://blog.crafting-labs.fr/images/illustration/.2010.06.05-montre_m_s.jpg){: .left-image}
-](/images/illustration/2010.06.05-montre_m.jpg)Lorsque je donne des formations ou des conférences, j'utilise tout un tas de petites anecdotes, des histoires qui me sont arrivées au cours de ma carrière.
+[![2010.06.05-montre m.jpg](https://blog-img.crafting-labs.fr/illustration/.2010.06.05-montre_m_s.jpg){: .left-image}
+](https://blog-img.crafting-labs.fr/illustration/2010.06.05-montre_m.jpg)Lorsque je donne des formations ou des conférences, j'utilise tout un tas de petites anecdotes, des histoires qui me sont arrivées au cours de ma carrière.
 Il y en a une en particulier que j'utilise lorsque je veux parler de la mauvaise notion du temps que l'on peut avoir parfois. On a pas le temps de faire des tests, on ne peut pas prendre le temps de faire de la qualité, car il faut avancer les fonctionnalité, corriger les bugs...
 
 

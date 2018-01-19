@@ -5,7 +5,7 @@ date: 2011-07-09 15:05:00 +0100
 comments: false
 categories: 
 ---
-![DSC 6161 s.JPG](https://blog.crafting-labs.fr/images/illustration/.DSC_6161_s_s.jpg){: .left-image}
+![DSC 6161 s.JPG](https://blog-img.crafting-labs.fr/illustration/.DSC_6161_s_s.jpg){: .left-image}
 
 Je me définis généralement comme un *artisan du logiciel*, un *professionnel du développement logiciel* ou plus simplement comme un *développeur de logiciel*.
 

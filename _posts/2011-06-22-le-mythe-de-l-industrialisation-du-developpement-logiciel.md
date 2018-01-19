@@ -10,7 +10,7 @@ categories:
 - "développement"
 - "métaphore"
 ---
-![2010.11.12-Utopiales.038.jpg](https://blog.crafting-labs.fr/images/illustration/.2010.11.12_-_Utopiales.038_s.jpg){: .left-image}
+![2010.11.12-Utopiales.038.jpg](https://blog-img.crafting-labs.fr/illustration/.2010.11.12_-_Utopiales.038_s.jpg){: .left-image}
 Un faisant mon petit tour du web avant d'aller au bureau je suis tombé sur l'article [We need a programming language for the rest of us](http://www.leavesofcode.com/2011/06/we-need-programming-language-for-rest.html) de Chris Tompkins.
 
 Chris Tompkins est un ancien journaliste et reconnait volontiers n'avoir pas spécialement de bagage dans le développement. Il a essayé d'apprendre un langage de programmation, l'Objective C, pour faire une application iPhone et a lamentablement échoué.
@@ -59,7 +59,7 @@ Il ne faut pas oublier la syntaxe, et les bonnes pratiques de code que l'on pour
 #Tout le monde sait cuisiner, alors pourquoi tout le monde ne peut pas développer ?
 Parce que ce que tout le monde sait, plus ou moins, faire c'est suivre une recette de cuisine.
 
-![2009.05.26.jpg](https://blog.crafting-labs.fr/images/illustration/.2009.05.26_s.jpg){: .left-image}
+![2009.05.26.jpg](https://blog-img.crafting-labs.fr/illustration/.2009.05.26_s.jpg){: .left-image}
 
 Suivre des recettes, c'est comme ça que j'ai commencé à développer : en recopiant des codes entiers de programmes déjà existant[^3]. 
 Mais au final, je ne créais rien, je ne faisais que refaire ce que d'autres avaient fait avant moi.
@@ -80,7 +80,7 @@ Il faut savoir travailler en équipe, choisir les bonnes matières premières, p
 
 
 #L'argument du fond des temps
-![2010.01.14.jpg](https://blog.crafting-labs.fr/images/illustration/.2010.01.14_s.jpg){: .right-image}
+![2010.01.14.jpg](https://blog-img.crafting-labs.fr/illustration/.2010.01.14_s.jpg){: .right-image}
 
 Il y a un point qu'il est bon de rappeler de temps en temps : l'Homme a du créer ses premiers plats il y a quelques dizaines de milliers d'années.
 

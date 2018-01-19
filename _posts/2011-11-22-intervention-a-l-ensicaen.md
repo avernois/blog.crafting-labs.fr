@@ -5,7 +5,7 @@ date: 2011-11-22 16:12:00 +0100
 comments: false
 categories: 
 ---
-![LogoEnsicaenQuadri.jpg](https://blog.crafting-labs.fr/images/logo/.LogoEnsicaenQuadri_s.jpg){: .left-image}
+![LogoEnsicaenQuadri.jpg](https://blog-img.crafting-labs.fr/logo/.LogoEnsicaenQuadri_s.jpg){: .left-image}
 Vendredi et Lundi dernier, j'ai été invité à l'[ENSICAEN](http://www.ensicaen.fr) pour parler d'agilité aux futurs ingénieurs.
 Au programme, deux sessions aux pires créneaux, ceux que j'aimais le moins quand j'étais étudiant : vendredi de 16h à 18h et lundi de 8h à 12h.
 
@@ -17,8 +17,8 @@ Lundi matin, c'était les 3ème année ainsi que les mastères. 4h un lundi mati
 
 Donc après une présentation générale de l'agilité puis de scrum[^1] parfaitement timeboxé à 2h et une pause café bien méritée[^2] je leur ai laissé définir la priorité de la fin de session.
 
-[![2011.11.21-ENSICAEN.010.blog.jpg](https://blog.crafting-labs.fr/images/2011.11.21_-_ENSICAEN/.2011.11.21_-_ENSICAEN.010.blog_s.jpg){: .right-image}
-](https://blog.crafting-labs.fr/images/2011.11.21_-_ENSICAEN/2011.11.21_-_ENSICAEN.010.blog.jpg)
+[![2011.11.21-ENSICAEN.010.blog.jpg](https://blog-img.crafting-labs.fr/2011.11.21_-_ENSICAEN/.2011.11.21_-_ENSICAEN.010.blog_s.jpg){: .right-image}
+](https://blog-img.crafting-labs.fr/2011.11.21_-_ENSICAEN/2011.11.21_-_ENSICAEN.010.blog.jpg)
 Me rappelant de mes années de vacataire pendant ma thèse et mon post-doc, je me doutais bien qu'ils ne serait pas nombreux à poser des questions. J'avais donc préparé une douzaine de thèmes que l'on pourrait aborder. Entre autres :
 
 * mais moi, je voulais être chef de projet, je vais faire quoi ?
@@ -38,8 +38,8 @@ Ils en ont rajouté deux autres :
 
 Ensuite, ils ont priorisé ces questions qui constituaient notre backlog à l'aide de carton rouge et vert [^5] : rouge ça ne m'intéresse pas, vert ça m'intéresse. 
 
-[![2011.11.21-ENSICAEN.008.blog.jpg](https://blog.crafting-labs.fr/images/2011.11.21_-_ENSICAEN/.2011.11.21_-_ENSICAEN.008.blog_s.jpg){: .left-image}
-](https://blog.crafting-labs.fr/images/2011.11.21_-_ENSICAEN/2011.11.21_-_ENSICAEN.008.blog.jpg)
+[![2011.11.21-ENSICAEN.008.blog.jpg](https://blog-img.crafting-labs.fr/2011.11.21_-_ENSICAEN/.2011.11.21_-_ENSICAEN.008.blog_s.jpg){: .left-image}
+](https://blog-img.crafting-labs.fr/2011.11.21_-_ENSICAEN/2011.11.21_-_ENSICAEN.008.blog.jpg)
 Pour chaque question, nous nous sommes donc retrouvés avec 2 chiffres : celui des pour, celui de contre [^6].
 C'était le bon moment pour aborder le problème pas si simple de la priorisation du backlog. Avec 2 chiffres (pour et contre), il y a plein de possibilité pour prioriser :
 

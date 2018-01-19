@@ -10,7 +10,7 @@ categories:
 - "gdcr"
 - "toulouse"
 ---
-![gdcr-logo-full.png](https://blog.crafting-labs.fr/images/logo/gdcr-logo-full.png)
+![gdcr-logo-full.png](https://blog-img.crafting-labs.fr/logo/gdcr-logo-full.png)
 
 
 Le 8 décembre 2012, c'est le Global Day of CodeRetreat. À l'initiative de la communauté Software Craftsmanship Toulouse et grâce au soutien de [Makina Corpus](http://www.makina-corpus.com/), Toulouse sera encore de la fête cette année.

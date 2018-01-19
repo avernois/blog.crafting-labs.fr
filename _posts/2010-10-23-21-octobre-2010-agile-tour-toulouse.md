@@ -11,7 +11,7 @@ categories:
 - "sigmat"
 - "toulouse"
 ---
-![city 18.jpg](https://blog.crafting-labs.fr/images/logo/.city_18_s.jpg){: .left-image}
+![city 18.jpg](https://blog-img.crafting-labs.fr/logo/.city_18_s.jpg){: .left-image}
  L'agile Tour Toulouse, c'était jeudi dernier. Pour cette édition 2010, il n'y avait pas moins de 13 conférences et 6 ateliers repartis sur 3 à 4 salles en parallèles. C'était aussi 300 participants inscrits pour environ 250 personnes présentes.
 Ce fut aussi quelques cafouillages d'organisation, et jour de grève oblige, une session annulée pour cause d'orateur coincé dans un train à Narbonne.
 

@@ -10,7 +10,7 @@ categories:
 - "scala"
 - "toulouse"
 ---
-![jug.jpg](https://blog.crafting-labs.fr/images/logo/.jug_s.jpg){: .left-image}
+![jug.jpg](https://blog-img.crafting-labs.fr/logo/.jug_s.jpg){: .left-image}
 La prochaine session du JUG Toulouse aura lieu le 5 novembre prochain à partir de 18h30.
 Au programme, c'est du lourd avec une présentation de Nikita Ivanov[^1] autour de Scala et du Cloud.
 

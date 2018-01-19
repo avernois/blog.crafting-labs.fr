@@ -5,7 +5,7 @@ date: 2014-02-27 10:24:00 +0100
 comments: false
 categories: 
 ---
-![Lion de Leszek Leszczynsli, CC BY-SA 2.0](https://blog.crafting-labs.fr/images/illustration/flickr/.Leszek.Leszczynski-lion_s.jpg){: .left-image}
+![Lion de Leszek Leszczynsli, CC BY-SA 2.0](https://blog-img.crafting-labs.fr/illustration/flickr/.Leszek.Leszczynski-lion_s.jpg){: .left-image}
 Il y a quelques années, j'ai eu l'occasion de passer un week-end avec un dresseur de lion[^1].
 Quand j'interviens pour un accompagnement sur un nouveau projet, je repense presque systématiquement à ce qu'il m'avait alors expliqué sur la façon dont les lions voient le monde.
 

@@ -9,7 +9,7 @@ categories:
 - "software"
 - "toulouse"
 ---
-![DSC 6161 s.JPG](https://blog.crafting-labs.fr/images/illustration/.DSC_6161_s_s.jpg){: .left-image}
+![DSC 6161 s.JPG](https://blog-img.crafting-labs.fr/illustration/.DSC_6161_s_s.jpg){: .left-image}
 
 [Jeudi dernier](/index.php?post/2012/01/02/Software-Craftsmanship-%C3%A0-Toulouse-5-janvier-2012) nous étions 15 réunis à la [maison de l'Initiative](http://maison-initiative.org/) pour lancer la communauté craftsmanship de Toulouse et ses environs.
 

@@ -10,7 +10,7 @@ categories:
 - "talk"
 - "toulouse"
 ---
-![at2013-speaker.jpg](https://blog.crafting-labs.fr/images/logo/.at2013-speaker_s.jpg){: .left-image}
+![at2013-speaker.jpg](https://blog-img.crafting-labs.fr/logo/.at2013-speaker_s.jpg){: .left-image}
 Octobre-novembre, c'est la période des Agiles Tour et d'Agile Grenoble. L'an dernier, en 2012 donc, toutes les sessions que j'avais proposé ont été acceptées. 9 sessions[^1] en 5 dates[^2]. Heureusement que pour toutes ces sessions j'avais des binômes de chocs : Fabrice Aimetti, Pablo Pernot, Phillipe Launay et Thierry Cros.
 
 Cette année, je fais tout l'inverse : pas d'atelier, et pas de binôme, une session et deux représention. Ce sera un talk en solo de 45 min à Agile Tour Toulouse et Agile Tour Montpellier[^3].

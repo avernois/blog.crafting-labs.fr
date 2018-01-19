@@ -11,7 +11,7 @@ categories:
 - "pnl"
 - "scrum"
 ---
-![bandler grinder-secrets de la communication](https://blog.crafting-labs.fr/images/couverture/.bandler_grinder_-_secrets_de_la_communication_s.jpg){: .left-image}
+![bandler grinder-secrets de la communication](https://blog-img.crafting-labs.fr/couverture/.bandler_grinder_-_secrets_de_la_communication_s.jpg){: .left-image}
  Quatrième de couverture :
 
 > La programmation neurolinguistique, créée en 1975 par Richard Bandler et John Grinder, est une technique de communication qui a pour but de changer nos anciens schémas mentaux pour trouver plus d'assurance dans la vie et optimiser notre potentiel énergétique et créatif.

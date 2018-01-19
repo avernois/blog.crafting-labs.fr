@@ -9,7 +9,7 @@ categories:
 - "lecture"
 - "procrastination"
 ---
-![perry-procrastination.jpg](https://blog.crafting-labs.fr/images/couverture/.perry_-_procrastination_s.jpg){: .left-image}
+![perry-procrastination.jpg](https://blog-img.crafting-labs.fr/couverture/.perry_-_procrastination_s.jpg){: .left-image}
 
 4e de couverture : 
 

@@ -5,7 +5,7 @@ date: 2011-09-14 10:15:00 +0100
 comments: false
 categories: 
 ---
-![subversion logo.png](https://blog.crafting-labs.fr/images/logo/.subversion_logo_s.jpg){: .left-image}
+![subversion logo.png](https://blog-img.crafting-labs.fr/logo/.subversion_logo_s.jpg){: .left-image}
 Si c'est trivial avec git, avec svn annuler les modifs du dernier commit n'est pas forcement évident.
 C'est même impossible, svn ne donne pas le droit à l'erreur et n'a aucun moyen d'oublier un commit.
 

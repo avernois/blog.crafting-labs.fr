@@ -8,7 +8,7 @@ categories:
 - "pau"
 - "rétrospective"
 ---
-![at2012.jpg](https://blog.crafting-labs.fr/images/logo/.at2012_s.jpg){: .left-image}
+![at2012.jpg](https://blog-img.crafting-labs.fr/logo/.at2012_s.jpg){: .left-image}
 Le 24 octobre, l'association [Pyrénées Agile](http://www.pyrenees-agile.org/) organisait le premier Agile Tour Pau.
 Et même si cela n'a durée qu'une demi-journée, c'était vraiment une chouette session.
 

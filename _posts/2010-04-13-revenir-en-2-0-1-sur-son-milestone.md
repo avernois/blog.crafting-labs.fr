@@ -11,7 +11,7 @@ categories:
 - "motorola"
 - "restauration"
 ---
-![android.gif](https://blog.crafting-labs.fr/images/logo/.android_s.jpg){: .left-image}
+![android.gif](https://blog-img.crafting-labs.fr/logo/.android_s.jpg){: .left-image}
 Comme moi et beaucoup d'autres vous vous êtes précipité pour installer la nouvelle mise à jour en 2.1 sur votre milestone. Et comme moi et beaucoup d'autres, après un bref moment de joie, vous avez déchanté devant l'instabilité du système avec une seule envie, oublier cette erreur et retrouver cette chère 2.0.1 qui marchait pas si mal.
 
 Et bien c'est faisable ! Et en plus, je vous explique comment.

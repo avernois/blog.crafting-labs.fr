@@ -9,7 +9,7 @@ categories:
 - "error"
 - "xulrunner"
 ---
-![large eclipse logo.jpg](https://blog.crafting-labs.fr/images/logo/.large_eclipse_logo_s.jpg){: .left-image}
+![large eclipse logo.jpg](https://blog-img.crafting-labs.fr/logo/.large_eclipse_logo_s.jpg){: .left-image}
 Depuis, la dernière mise à jour de mon système(ubuntu 10.4) et de mon eclipse (helios), ce dernier explosait lamentablement en vol en utilisant l'autocomplétion avec l'immonde erreur :
 
 > The program 'Eclipse' received an X Window System error.

@@ -9,7 +9,7 @@ categories:
 - "conférence"
 - "toulouse"
 ---
-![city 18.jpg](https://blog.crafting-labs.fr/images/logo/.city_18_s.jpg){: .left-image}
+![city 18.jpg](https://blog-img.crafting-labs.fr/logo/.city_18_s.jpg){: .left-image}
 Pour cette édition 2010 de l’Agile Tour à Toulouse, qui se tiendra le 21 octobre, nous souhaitons élargir les thématiques abordées en intégrant tous les praticiens de l’agilité : XP, SCRUM, Equipe, Scrum Master, Product Owner, coach, managers, chercheurs …
 
 Nous recherchons des contributeurs motivés pour partager les expériences et points de vue d'experts sur les thématiques Agiles. Au-delà d’une présentation théorique de l’Agilité, sujet traité lors des précédentes éditions, nous souhaitons axer cette édition sur les pratiques, les outils, méthodes et cas d’application correspondant aux attentes des auditeurs.

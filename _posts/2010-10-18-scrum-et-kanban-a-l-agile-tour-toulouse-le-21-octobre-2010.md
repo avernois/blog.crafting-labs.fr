@@ -11,7 +11,7 @@ categories:
 - "scrum"
 - "toulouse"
 ---
-![speaker agile tour 2010](https://blog.crafting-labs.fr/images/logo/.at2010speaker_s.jpg){: .left-image}
+![speaker agile tour 2010](https://blog-img.crafting-labs.fr/logo/.at2010speaker_s.jpg){: .left-image}
  En janvier et février, avec mes camarades Fabrice Aimetti, Claude Aubry et Frédéric Faure, nous proposions une [traduction](/index.php?post/2010/02/14/Kanban-et-Scrum-%3A-Tirer-le-meilleur-des-deux-les-figures-en-fran%C3%A7ais.) du mini livre de Henrik Kniberg et Mattias Skarin au sujet de Scrum et Kanban. 
 Pour l'édition toulousaine de l'Agile Tour Toulouse, l'équipe reprend du service pour vous faire une présentation rock'n'roll !
 

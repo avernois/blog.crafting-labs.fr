@@ -10,7 +10,7 @@ categories:
 - "scrum"
 - "traduction"
 ---
-![kniberg skarin - kanban and scrum.jpg](https://blog.crafting-labs.fr/images/couverture/.kniberg_skarin_-_kanban_and_scrum_s.jpg){: .left-image}
+![kniberg skarin - kanban and scrum.jpg](https://blog-img.crafting-labs.fr/couverture/.kniberg_skarin_-_kanban_and_scrum_s.jpg){: .left-image}
 
 *Kanban and Scrum - making the most of both* est un petit livre écrit par Henrik Kniberg et Mattias Skarin sur Kanban et Scrum parut chez [InfoQ](http://www.infoq.com/minibooks/kanban-scrum-minibook). Ecrit en anglais, il a été publié le 21 décembre 2009.
 

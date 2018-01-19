@@ -11,7 +11,7 @@ categories:
 - "scrumday"
 - "sug"
 ---
-![SUG France](https://blog.crafting-labs.fr/images/logo/logo_sug.jpeg){: .left-image}
+![SUG France](https://blog-img.crafting-labs.fr/logo/logo_sug.jpeg){: .left-image}
  Le 31 mars 2011 se tiendra le Scrum Day, conférence autour de scrum et des méthodes agiles organisée par le Scrum User Group France.
 
 Avec mes camarades [Fabrice Aimetti](http://www.fabrice-aimetti.fr) et [Claude Aubry](http://www.aubryconseil.com), nous aurons le plaisir d'y jouer la présentation originale, crée pour l'Agile Tour Toulouse 2010, sur le thème de Scrum et Kanban[^1].

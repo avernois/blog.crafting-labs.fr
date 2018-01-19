@@ -9,7 +9,7 @@ categories:
 - "lean"
 - "traduction"
 ---
-![kniberg - lean from the trenches.jpeg](https://blog.crafting-labs.fr/images/couverture/.kniberg_-_lean_from_the_trenches_s.jpg){: .left-image}
+![kniberg - lean from the trenches.jpeg](https://blog-img.crafting-labs.fr/couverture/.kniberg_-_lean_from_the_trenches_s.jpg){: .left-image}
 
 __Lean From The Trenches__ est le dernier livre d'Henrik Kniberg. Publié chez [les PragProg](http://pragprog.com/book/hklean/lean-from-the-trenches), Henrik met gratuitement à disposition une version draft.
 Mon camarade [Fabrice Aimetti](http://agilarium.blogspot.fr/), le [serial traducteur](http://fabrice-aimetti.fr/dokuwiki/doku.php/traduction:start), a initié peu après un projet de traduction : [Claude Aubry](http://www.aubryconseil.com), [Sylvain Fraïssé](http://www.twitter.com/#!/sfui), Nicolas Meuraux et moi même avons répondu présent pour participer à l'effort.

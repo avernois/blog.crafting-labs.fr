@@ -8,7 +8,7 @@ categories:
 - "privée"
 - "test"
 ---
-![Private property. So what ? d'Alexandre Dulaunoy](https://blog.crafting-labs.fr/images/illustration/flickr/.flickr_adulau_propriete_privee_s.jpg){: .left-image}
+![Private property. So what ? d'Alexandre Dulaunoy](https://blog-img.crafting-labs.fr/illustration/flickr/.flickr_adulau_propriete_privee_s.jpg){: .left-image}
 Une question qui revient souvent lorsque j'anime un coding dojo ou durant ma [session sur les tests unitaires](http://avernois.github.io/prez-before_after_tdd) :
 
 > Faut-il tester les méthodes privées ?

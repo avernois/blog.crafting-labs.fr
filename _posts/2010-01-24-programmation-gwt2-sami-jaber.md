@@ -9,7 +9,7 @@ categories:
 - "java"
 - "lecture"
 ---
-![jaber - gwt2.jpg](https://blog.crafting-labs.fr/images/couverture/.jaber_-_gwt2_s.jpg){: .left-image}
+![jaber - gwt2.jpg](https://blog-img.crafting-labs.fr/couverture/.jaber_-_gwt2_s.jpg){: .left-image}
  Présentation de l'éditeur : 
 >Pour peu qu'on en maîtrise les pré-requis d'architecture, le framework GWT 2 met à la portée de tous les développeurs web la possibilité de créer des applications web 2.0 interactives et robustes avec autant d'aisance qu'en Flex ou Silverlight. Publié en licence libre Apache, le Google Web Toolkit génère depuis Java du code Ajax (JavaScript et XHTML/CSS) optimisé à l'extrême. La référence sur GWT 2 : une autre façon de développer pour le Web. La version 2 de GWT est une révolution en termes de productivité, de simplicité et de robustesse. C'est ce que montre cet ouvrage de référence sur GWT 2, qui fournit au développeur une méthodologie de conception et des bonnes pratiques d'architecture. Il détaille les concepts qui sous-tendent le framework pour en donner les clés d'une utilisation pertinente et optimisée : performances, séparation en couches, intégration avec l'existant, design patterns, sécurité... De la conception à l'optimisation et aux tests, toutes les étapes du développement sont déroulées, exemples de code à l'appui. S'adressant tant au développeur qu'à l'architecte, l'ouvrage dévoile les coulisses de chaque API au fil d'un cas d'utilisation simple et décortique les bibliothèques tierces principales telles que GWT-DnD, les API Google Calendar, Google Maps, SmartGWT et Ext-GWT... ''
 

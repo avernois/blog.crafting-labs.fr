@@ -11,7 +11,7 @@ categories:
 - "scrumday"
 - "sug"
 ---
-![SUG France](https://blog.crafting-labs.fr/images/logo/logo_sug.jpeg){: .left-image}
+![SUG France](https://blog-img.crafting-labs.fr/logo/logo_sug.jpeg){: .left-image}
  Pour sa deuxième année d'existence, le Scrum User Group Français organisait jeudi une grande journée dédié à Scrum au centre de conférence de Microsoft à Issy-les-moulineaux : le ScrumDay.
 
 

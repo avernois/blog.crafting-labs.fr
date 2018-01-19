@@ -8,7 +8,7 @@ categories:
 - "conférence"
 - "sug"
 ---
-![SUG France](https://blog.crafting-labs.fr/images/logo/logo_sug.jpeg){: .left-image}
+![SUG France](https://blog-img.crafting-labs.fr/logo/logo_sug.jpeg){: .left-image}
  Le 15 mars 2010, le Scrum User Group France organise une soirée avec Scott Ambler. Actuellement, Scott est Chief Methodologist/Agile chez IBM Rational qui sponsorise la soirée.
 
 

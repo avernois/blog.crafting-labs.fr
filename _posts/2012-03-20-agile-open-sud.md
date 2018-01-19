@@ -11,7 +11,7 @@ categories:
 - "sud"
 - "xp"
 ---
-![Agile Open Sud](https://blog.crafting-labs.fr/images/logo/.aos_2012_s.jpg){: .left-image}
+![Agile Open Sud](https://blog-img.crafting-labs.fr/logo/.aos_2012_s.jpg){: .left-image}
  Le premier Agile Open Sud s'est tenu vendredi 16 et samedi 17 mars.
 Nous étions une vingtaine, venant de Toulouse, Montpellier, Bordeaux, Marseille et d'Espagne, réunis sous le soleil de Banyuls sur Mer, presque les pieds dans l'eau.
 
@@ -41,8 +41,8 @@ Je suis arrivé sur la fin de cette discussion qui avait l'air très intéressan
 La SCOP me semble un format plutôt sympa.
 
 ##Scrum & XP, le match au sommet
-[![2012.03.16-Agile Open Sud - Banyuls.0044.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0044_s.jpg){: .right-image}
-](/images/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0044.jpg)
+[![2012.03.16-Agile Open Sud - Banyuls.0044.jpg](https://blog-img.crafting-labs.fr/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0044_s.jpg){: .right-image}
+](https://blog-img.crafting-labs.fr/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0044.jpg)
 Juste avant le repas, un petit débat sur les frères ennemis de l'agilité :)
 Dans le coin gauche, eXtreme XP Programming, le changement social, dans le coin droit Scrum, la gestion des systèmes complexes.
 
@@ -70,8 +70,8 @@ Mais en changeant un peu la dynamique du jeu[^4], on doit pouvoir mettre en évi
 À réfléchir à l'occasion.
 
 ##Sociocratie
-[![2012.03.16 - Agile Open Sud - Banyuls.0107.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0107_s.jpg){: .left-image}
-](/images/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0107.jpg)
+[![2012.03.16 - Agile Open Sud - Banyuls.0107.jpg](https://blog-img.crafting-labs.fr/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0107_s.jpg){: .left-image}
+](https://blog-img.crafting-labs.fr/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0107.jpg)
 La sociocratie est un mode de décision et de gouvernance ouvert et auto organisé. Jettez donc un oeil sur [Sociocratie sur Wikipedia](http://fr.wikipedia.org/wiki/Sociocratie).
 
 Un sujet passionnant qui a clairement sa place dans un cadre agile[^5].
@@ -103,8 +103,8 @@ Alors que les fans de rugby[^6] s'installait devant France-Galles, le reste des 
 * clairement, c'était trop court. Bien que sur deux jours, l'évènement en lui même n'a duré qu'à peine 24h. Une journée de plus n'aurait pas été de trop. Peut être deux.
 * le déroulement était un peu chaotique. Cela à peut être manqué d'un rythme un peu régulier et d'un peu plus de visibilité sur les sessions.
 * démarrage peut être un peu tard dans la journée du vendredi. On pourrait envisager de se servir du repas de midi comme ice breaker ?
-[![2012.03.16 - Agile Open Sud - Banyuls.0216.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216_s.jpg){: .right-image}
-](/images/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216.jpg)
+[![2012.03.16 - Agile Open Sud - Banyuls.0216.jpg](https://blog-img.crafting-labs.fr/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216_s.jpg){: .right-image}
+](https://blog-img.crafting-labs.fr/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216.jpg)
 # Ils en parlent aussi
 * Alexis : [Agile Open Sud 2012](http://ayeba.fr/2012/03/agile-open-sud-2012/)
 * Antoine : [mon album photo sur G+](https://plus.google.com/u/0/photos/106365002551487975401/albums/5721890626407772961)

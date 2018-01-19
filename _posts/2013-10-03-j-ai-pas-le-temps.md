@@ -5,7 +5,7 @@ date: 2013-10-03 12:02:00 +0100
 comments: false
 categories: 
 ---
-![2010.06.05-montre m.jpg](https://blog.crafting-labs.fr/images/illustration/.2010.06.05-montre_m_s.jpg){: .left-image}
+![2010.06.05-montre m.jpg](https://blog-img.crafting-labs.fr/illustration/.2010.06.05-montre_m_s.jpg){: .left-image}
 
 > désolé, j'ai pas eu le temps.
 

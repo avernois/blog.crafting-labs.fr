@@ -10,7 +10,7 @@ categories:
 - "maven"
 - "native2ascii"
 ---
-![pom.xml.jpg](https://blog.crafting-labs.fr/images/logo/.pom.xml_s.jpg){: .left-image}
+![pom.xml.jpg](https://blog-img.crafting-labs.fr/logo/.pom.xml_s.jpg){: .left-image}
 Une des limitations de java bien pénible pour nous les français, et autres gens, qui utilisons accents et caractères étranges, c'est l'obligation pour les fichiers .properties d'être encodés en ISO-8859-1... Et tous les caractères qui ne rentrent pas dans le moule se doivent d'être écrit en unicode. Autant dire que nos élégants caractères accentués se retrouve sous l'immonde forme \\u00e9, illisible et impossible à écrire...
 
 Heureusement, maven et sa ribambelle de plugin sont encore là pour nous sauver la mise.

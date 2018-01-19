@@ -5,8 +5,8 @@ date: 2014-11-26 17:34:00 +0100
 comments: false
 categories: 
 ---
-[![https://www.flickr.com/photos/cesarastudillo/2815083396](https://blog.crafting-labs.fr/images/illustration/.flickr-cesar_astudillo-kneading_s.jpg){: .left-image}
-](/images/illustration/flickr-cesar_astudillo-kneading.jpg)Je n'aime pas ce terme 'codeur'. Trop restrictif à mon goût. Et pourquoi pas pisseur de code tant qu'on y est.
+[![https://www.flickr.com/photos/cesarastudillo/2815083396](https://blog-img.crafting-labs.fr/illustration/.flickr-cesar_astudillo-kneading_s.jpg){: .left-image}
+](https://blog-img.crafting-labs.fr/illustration/flickr-cesar_astudillo-kneading.jpg)Je n'aime pas ce terme 'codeur'. Trop restrictif à mon goût. Et pourquoi pas pisseur de code tant qu'on y est.
 
 On ne dit pas d'un boulanger que c'est un pétrisseur de pâtes, un maçon un poseur de briques, un peintre un étaleur[^1][^2] de couleurs, ...
 
