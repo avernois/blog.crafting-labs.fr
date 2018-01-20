@@ -26,3 +26,6 @@ pages_list:
 
 plugins: 
   - jekyll-paginate
+
+include:
+  - .well-known
